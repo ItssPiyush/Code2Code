@@ -39,8 +39,7 @@ If you want to run CodeCast locally or contribute to its development, follow the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/codecast.git
-   cd codecast
+   git clone ""
    ```
 2. Install dependencies:
    ```
